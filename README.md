@@ -1,5 +1,7 @@
 # Curso-Arduino-RaspberryPi
-Documentos del curso Arduino y Raspberry Pi
+
+Curso Arduino y Raspberry Pi 2017
+
 ## Actividades
 
 ### Tema 1
