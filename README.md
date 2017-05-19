@@ -11,8 +11,7 @@ Curso Arduino y Raspberry Pi 2017
 ### Tema 2
 
 - **Tarea 2**
-
-[![tarea 2](https://github.com/marlenelis/Curso-Arduino-RaspberryPi/blob/master/Actividades/tarea2.png)](https://circuits.io/circuits/4949199-tonos )
+<img src="Actividades/tarea2.png" alt="tarea-2">
 
   [**Enlace**](https://circuits.io/circuits/4949199-tonos) 
 
