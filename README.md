@@ -12,7 +12,10 @@ Curso Arduino y Raspberry Pi 2017
 
 - **Tarea 2**
 
-  [![asciicast](https://github.com/marlenelis/Curso-Arduino-RaspberryPi/blob/master/Actividades/tarea2.png)](https://circuits.io/circuits/4949199-tonos )
+![tarea 2](https://github.com/marlenelis/Curso-Arduino-RaspberryPi/blob/master/Actividades/tarea2.png)
+
+
+[![asciicast](https://github.com/marlenelis/Curso-Arduino-RaspberryPi/blob/master/Actividades/tarea2.png)](https://circuits.io/circuits/4949199-tonos )
 
   [**Enlace**](https://circuits.io/circuits/4949199-tonos) 
 
@@ -20,14 +23,14 @@ Curso Arduino y Raspberry Pi 2017
 
 - **Semáforo** 
 	
-	[![asciicast](https://github.com/marlenelis/Curso-Arduino-RaspberryPi/blob/master/Actividades/ejemplo3-1.png)](https://circuits.io/circuits/4953131-semaforo_mv)
+[![asciicast](https://github.com/marlenelis/Curso-Arduino-RaspberryPi/blob/master/Actividades/ejemplo3-1.png)](https://circuits.io/circuits/4953131-semaforo_mv)
 
-	[**Enlace**](https://circuits.io/circuits/4953131-semaforo_mv) 
+[**Enlace**](https://circuits.io/circuits/4953131-semaforo_mv) 
 
 
 - **Tarea 3**
 
-  [![asciicast](https://github.com/marlenelis/Curso-Arduino-RaspberryPi/blob/master/Actividades/tarea3.png)](https://circuits.io/circuits/4951191-potentiometer-led)
+[![asciicast](https://github.com/marlenelis/Curso-Arduino-RaspberryPi/blob/master/Actividades/tarea3.png)](https://circuits.io/circuits/4951191-potentiometer-led)
 
 
   [**Enlace**](https://circuits.io/circuits/4951191-potentiometer-led) 
