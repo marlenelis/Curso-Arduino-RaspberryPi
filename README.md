@@ -22,16 +22,14 @@ Curso Arduino y Raspberry Pi 2017
 
 	
 <img src="Actividades/ejemplo3-1.png" alt="semaforo">
-=============
+
 
 [**Enlace**](https://circuits.io/circuits/4953131-semaforo_mv) 
 
 
 - **Tarea 3**
+<img src="Actividades/tarea3.png" alt="tarea-3">
 
-[![Tarea 3](https://github.com/marlenelis/Curso-Arduino-RaspberryPi/blob/master/Actividades/tarea3.png)](https://circuits.io/circuits/4951191-potentiometer-led)
-
-
-  [**Enlace**](https://circuits.io/circuits/4951191-potentiometer-led) 
+[**Enlace**](https://circuits.io/circuits/4951191-potentiometer-led) 
 
 
